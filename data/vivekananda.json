@@ -1,0 +1,1512 @@
+[
+  {
+    "question": "What did Swami Vivekananda describe as the soul of India?",
+    "options": [
+      "Political power",
+      "Spirituality",
+      "Economic strength",
+      "Military might"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, which group holds the key to India's future?",
+    "options": ["Politicians", "Farmers", "Youth", "Religious leaders"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda urge Indians to do in order to uplift the nation?",
+    "options": [
+      "Embrace Western culture",
+      "Renounce religion",
+      "Serve the poor and downtrodden",
+      "Focus on industrialization"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which ancient Indian scripture did Vivekananda frequently quote to inspire national pride?",
+    "options": ["Rig Veda", "Bhagavad Gita", "Upanishads", "Manusmriti"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe was the root cause of India's decline?",
+    "options": [
+      "Lack of education",
+      "Foreign invasions",
+      "Loss of spiritual values",
+      "Poor governance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which phrase did Vivekananda use to awaken the masses?",
+    "options": [
+      "\"India for Indians\"",
+      "\"Arise, awake, and stop not till the goal is reached\"",
+      "\"Unity in diversity\"",
+      "\"Truth alone triumphs\""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's view on caste discrimination?",
+    "options": [
+      "He supported it as tradition",
+      "He ignored it",
+      "He condemned it as divisive",
+      "He believed it was necessary for order"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How did Vivekananda describe India's spiritual contribution to the world?",
+    "options": [
+      "As outdated",
+      "As universal and eternal",
+      "As regional and limited",
+      "As mystical and obscure"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about India's women?",
+    "options": [
+      "They should remain in traditional roles",
+      "They must be educated and empowered",
+      "They should avoid politics",
+      "They are inferior to men"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Western country did Vivekananda visit to spread India's spiritual message?",
+    "options": ["France", "Germany", "United States", "Australia"],
+    "answer": 2
+  },
+  {
+    "question": "What was the name of Vivekananda’s Guru?",
+    "options": [
+      "Ramakrishna Paramahamsa",
+      "Swami Dayananda",
+      "Adi Shankaracharya",
+      "Ramana Maharshi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda believed that 'Religion is the manifestation of the ______ already in man.'",
+    "options": ["Power", "Divinity", "Knowledge", "Strength"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say was the greatest sin?",
+    "options": [
+      "Lying",
+      "Stealing",
+      "Calling yourself or others weak",
+      "Ignoring the scriptures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which major event in 1893 made Vivekananda famous worldwide?",
+    "options": [
+      "His return to India",
+      "The founding of Ramakrishna Mission",
+      "The Parliament of World's Religions in Chicago",
+      "The publication of Raja Yoga"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Vivekananda, what is the best way to worship God?",
+    "options": [
+      "Visiting temples",
+      "Performing rituals",
+      "Serving humanity",
+      "Reading scriptures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda's real name before he became a monk?",
+    "options": [
+      "Narendra Nath Datta",
+      "Surendra Nath",
+      "Rabindra Nath",
+      "Devendra Nath"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda emphasized the need for '______-making education.'",
+    "options": ["Money", "Man", "Career", "Skill"],
+    "answer": 1
+  },
+  {
+    "question": "What kind of strength did Vivekananda advocate for India’s youth?",
+    "options": [
+      "Only physical strength",
+      "Only intellectual strength",
+      "Muscles of iron and nerves of steel",
+      "Economic wealth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organization did Vivekananda found to serve society?",
+    "options": [
+      "Arya Samaj",
+      "Brahmo Samaj",
+      "Ramakrishna Mission",
+      "Theosophical Society"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda believe about the different religions of the world?",
+    "options": [
+      "Hinduism is the only true religion",
+      "All religions lead to the same truth",
+      "Religions are unnecessary",
+      "Western religions are superior"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Education is the manifestation of the ______ already in man.'",
+    "options": ["Intelligence", "Perfection", "Goodness", "Creativity"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian city is closely associated with Vivekananda's transformation and the rock memorial?",
+    "options": ["Calcutta", "Kanyakumari", "Varanasi", "Belur"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's stance on untouchability?",
+    "options": [
+      "It is a divine law",
+      "It is a social evil that must be removed",
+      "It doesn’t matter",
+      "It should be preserved"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, what is the 'common ground' of all Indians?",
+    "options": ["Language", "Politics", "Religion and Spirituality", "Food"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda mean by 'Daridra Narayana'?",
+    "options": [
+      "God of wealth",
+      "God in the form of the poor",
+      "The destruction of poverty",
+      "A wealthy monk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that India would rise again through the power of:",
+    "options": [
+      "Swadeshi",
+      "Spirituality and Education",
+      "Foreign help",
+      "Military conquest"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the relationship between science and religion?",
+    "options": [
+      "They are enemies",
+      "They should be integrated for progress",
+      "Science is more important",
+      "Religion is more important"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which language did Vivekananda use to reach the international audience?",
+    "options": ["Sanskrit", "Bengali", "English", "Hindi"],
+    "answer": 2
+  },
+  {
+    "question": "What was the mission of the Ramakrishna Mission?",
+    "options": [
+      "Political independence",
+      "Spiritual liberation and social service",
+      "Religious conversion",
+      "Economic reform"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught that 'Each soul is potentially ______.'",
+    "options": ["Powerful", "Divine", "Good", "Successful"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda think about the influence of Western culture on India?",
+    "options": [
+      "It should be completely rejected",
+      "It should be fully adopted",
+      "India should take the science and organizational skills but keep its own spirituality",
+      "Western culture is superior"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which book is NOT written by Swami Vivekananda?",
+    "options": [
+      "Raja Yoga",
+      "Karma Yoga",
+      "Bhakti Yoga",
+      "The Discovery of India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vivekananda often said, 'Believe in yourself before you believe in ______.'",
+    "options": ["Nature", "Others", "God", "Scriptures"],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda's view on the future of India's culture?",
+    "options": [
+      "It will vanish",
+      "It will conquer the world through spirituality",
+      "It will change completely",
+      "It is irrelevant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda compared India to a 'sleeping ______' that needs to wake up.",
+    "options": ["Elephant", "Tiger", "Giant", "Lion"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda believe was the purpose of life?",
+    "options": ["Wealth", "Self-realization and service", "Fame", "Happiness"],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, what is the result of true education?",
+    "options": [
+      "A high-paying job",
+      "The building of character",
+      "Fluent English",
+      "Vast knowledge of facts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda call the 'religion of the Upanishads'?",
+    "options": ["Advaita Vedanta", "Dualism", "Idol worship", "Bhakti"],
+    "answer": 0
+  },
+  {
+    "question": "In which city is the Belur Math, founded by Vivekananda, located?",
+    "options": ["Delhi", "Calcutta (Kolkata)", "Chennai", "Mumbai"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda emphasized 'Help and not ______.'",
+    "options": ["Hate", "Fight", "Destruction", "Ignore"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda say about the 'weakness' of the Indian mind?",
+    "options": [
+      "It is natural",
+      "It is due to lack of self-confidence",
+      "It is due to climate",
+      "It is irreversible"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the primary focus of Vivekananda's speech at Chicago?",
+    "options": [
+      "Universal tolerance and acceptance",
+      "Superiority of Hinduism",
+      "Need for Indian independence",
+      "Scientific progress"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda believed that 'All power is ______.'",
+    "options": ["In the government", "Within you", "In money", "In nature"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say regarding the physical health of youth?",
+    "options": [
+      "It is not important for spiritual life",
+      "It is the foundation of all progress",
+      "Youth should only focus on books",
+      "Physical health is secondary to wealth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How did Vivekananda view the Buddha?",
+    "options": [
+      "As a heretic",
+      "As the greatest heart that ever beat",
+      "As a political leader",
+      "As a scientist"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'They alone live who live for ______.'",
+    "options": ["Themselves", "Their family", "Others", "Their country"],
+    "answer": 2
+  },
+  {
+    "question": "Which king helped Vivekananda in his journey to the West?",
+    "options": [
+      "Maharaja of Mysore",
+      "Maharaja of Khetri",
+      "Maharaja of Travancore",
+      "Both a and b"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Vivekananda think about 'idol worship'?",
+    "options": [
+      "He completely rejected it",
+      "He viewed it as a valid initial step toward realizing the formless God",
+      "He thought it was the only way",
+      "He called it a superstition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The world is a great ______.'",
+    "options": ["Illusion", "Marketplace", "Gymnasium", "Temple"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda say about the fear of death?",
+    "options": [
+      "It is unavoidable",
+      "It is the greatest of all delusions",
+      "It is the end of everything",
+      "It should be feared"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the aim of Vivekananda’s 'Practical Vedanta'?",
+    "options": [
+      "Renouncing the world",
+      "Applying spiritual truths in everyday life and service",
+      "Building more temples",
+      "Studying ancient Sanskrit only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Purity, patience, and perseverance are the three essentials to ______.'",
+    "options": ["Wealth", "Success", "Happiness", "Power"],
+    "answer": 1
+  },
+  {
+    "question": "Which year did Vivekananda pass away?",
+    "options": ["1890", "1900", "1902", "1910"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda call 'the nectar of life'?",
+    "options": ["Knowledge", "Love and Service", "Wealth", "Power"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Be a hero. Always say, I have ______.'",
+    "options": ["No money", "No fear", "No friends", "No ideas"],
+    "answer": 1
+  },
+  {
+    "question": "How did Vivekananda define 'character'?",
+    "options": [
+      "The sum total of one’s habits",
+      "Public reputation",
+      "Family background",
+      "Educational level"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was Vivekananda's stance on religious conversion?",
+    "options": [
+      "He supported it",
+      "He believed every religion should remain in its own way while learning from others",
+      "He wanted everyone to become Hindu",
+      "He wanted to abolish religion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Truth does not pay homage to any ______.'",
+    "options": ["Person", "Society", "Government", "God"],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, what is the cause of all suffering?",
+    "options": ["Poverty", "Ignorance", "Disease", "Politics"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda described India as 'the ______ of the world.'",
+    "options": ["Leader", "Spiritual Teacher", "Laboratory", "Market"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the necessity of concentration?",
+    "options": [
+      "It is only for monks",
+      "It is the key to all knowledge",
+      "It is a waste of time",
+      "It is for scientists"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Religion is not in ______.'",
+    "options": [
+      "Books or dogmas, but in being and becoming",
+      "Temples",
+      "The heart",
+      "Heaven"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which river bank is Belur Math situated on?",
+    "options": ["Ganges (Hooghly)", "Yamuna", "Narmada", "Godavari"],
+    "answer": 0
+  },
+  {
+    "question": "What was Vivekananda's view on social reform?",
+    "options": [
+      "It must be forced from above",
+      "It must come from within society through education",
+      "It is impossible",
+      "It should be done by the government"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Blessed are those whose bodies get destroyed in the ______.'",
+    "options": [
+      "Battlefield",
+      "Service of others",
+      "Search for wealth",
+      "Temple"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda emphasize as 'liberty'?",
+    "options": [
+      "Doing whatever one wants",
+      "Self-control and following the truth",
+      "Freedom from all laws",
+      "Political independence only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Strength is life, weakness is ______.'",
+    "options": ["Sickness", "Death", "Fear", "Failure"],
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the American disciple who worked for women's education in India?",
+    "options": [
+      "Sister Nivedita",
+      "Sister Christine",
+      "Mrs. Ole Bull",
+      "Josephine MacLeod"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda called for a '______ of the world' by India's spiritual ideas.",
+    "options": ["Destruction", "Conquest", "Conversion", "Ignoring"],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, what is the 'greatest help' one can give?",
+    "options": [
+      "Money",
+      "Food",
+      "Spiritual and intellectual knowledge",
+      "Medicine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vivekananda said, 'Anything that makes you weak—physically, intellectually, and spiritually, ______ it as poison.'",
+    "options": ["Accept", "Ignore", "Reject", "Study"],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda's view on universalism?",
+    "options": [
+      "One world, one religion",
+      "Harmony of different faiths",
+      "No religion",
+      "Universal secularism"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Work is ______.'",
+    "options": ["Duty", "Worship", "Necessary", "Difficult"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda mean by 'Renunciation'?",
+    "options": [
+      "Giving up everything",
+      "Giving up selfishness",
+      "Leaving the family",
+      "Living in a forest"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'God is the ______.'",
+    "options": ["Judge", "Witness", "Greatest Workman", "Creator only"],
+    "answer": 2
+  },
+  {
+    "question": "How did Vivekananda view the youth’s potential?",
+    "options": ["Limited", "Infinite", "Dangerous", "Unstable"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe was the most important thing for an individual?",
+    "options": ["Success", "Character", "Knowledge", "Health"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The goal of mankind is ______.'",
+    "options": ["Knowledge", "Happiness", "Power", "Fame"],
+    "answer": 0
+  },
+  {
+    "question": "What was Vivekananda's message to the Western world?",
+    "options": [
+      "They are superior",
+      "They need to learn spirituality from India",
+      "They should invade India",
+      "They should ignore religion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Stand up, be bold, be strong. Take the whole ______ on your own shoulders.'",
+    "options": ["World", "Burden", "Responsibility", "Life"],
+    "answer": 2
+  },
+  {
+    "question": "Vivekananda believed that 'Spirituality is the ______ of India.'",
+    "options": ["Backbone", "Culture", "Problem", "Past"],
+    "answer": 0
+  },
+  {
+    "question": "What did Vivekananda say about the heart vs. the head?",
+    "options": [
+      "Follow the head",
+      "Follow the heart",
+      "Ignore both",
+      "The head is more important"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Unselfishness is more ______ than selfishness.'",
+    "options": ["Difficult", "Paying", "Spiritual", "Common"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe about India's unity?",
+    "options": [
+      "It is impossible",
+      "It is based on spirituality",
+      "It is based on geography",
+      "It is based on the British rule"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'The best way to help yourself is to help ______.'",
+    "options": ["Your family", "Others", "Your country", "God"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the 'past' of India?",
+    "options": [
+      "It should be forgotten",
+      "It is the source of pride and must be used to build the future",
+      "It was full of superstitions only",
+      "It was better than the future"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda called for a '______ of the masses.'",
+    "options": ["Revolt", "Lifting", "Ignorance", "Conversion"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about 'fearlessness'?",
+    "options": [
+      "It is for soldiers only",
+      "It is the hallmark of a true religious person",
+      "It is impossible",
+      "It leads to danger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'A man is not a ______.'",
+    "options": ["Sinner", "God", "Body", "Machine"],
+    "answer": 3
+  },
+  {
+    "question": "According to Vivekananda, what is the 'basis of all morality'?",
+    "options": ["Laws", "Religion", "Unselfishness", "Society"],
+    "answer": 2
+  },
+  {
+    "question": "Vivekananda said, 'You cannot believe in God until you believe in ______.'",
+    "options": ["Nature", "Yourself", "Others", "Scriptures"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's view on 'liberty of thought'?",
+    "options": [
+      "It is dangerous",
+      "It is the first condition of growth",
+      "It should be restricted",
+      "It is unnecessary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'All the power of the universe is ______.'",
+    "options": ["With God", "In nature", "Already ours", "Lost"],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda say about the 'national ideal' of India?",
+    "options": [
+      "Political power",
+      "Renunciation and service",
+      "Commercial success",
+      "Military dominance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Love is the law of ______.'",
+    "options": ["Nature", "Life", "God", "Man"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda call the 'eternal religion'?",
+    "options": ["Sanatana Dharma", "Christianity", "Islam", "Buddhism"],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda believed that 'India's destiny is ______.'",
+    "options": ["Great", "Spiritual", "Political", "Commercial"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say regarding the importance of will-power?",
+    "options": [
+      "It is nothing",
+      "It can move mountains",
+      "It is only for some people",
+      "It is harmful"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'The only way to reach the goal is to ______.'",
+    "options": ["Study", "Work", "Meditate", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "What did Vivekananda say about India’s mission in the world?",
+    "options": [
+      "To conquer lands",
+      "To give spiritual light",
+      "To sell products",
+      "To learn from everyone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'True progress is ______.'",
+    "options": [
+      "Material",
+      "Moral and spiritual",
+      "Political",
+      "Technological"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe about the 'power of thought'?",
+    "options": [
+      "It is weak",
+      "It is the greatest force",
+      "It is irrelevant",
+      "It is for philosophers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught that 'Happiness is not the goal, ______ is.'",
+    "options": ["Wealth", "Knowledge", "Success", "Power"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's advice on facing difficulties?",
+    "options": [
+      "Run away",
+      "Face them boldly",
+      "Ignore them",
+      "Ask others for help"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'He who struggles is ______.'",
+    "options": ["Wise", "Better than he who never tries", "Foolish", "Weak"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about India's villages?",
+    "options": [
+      "They are backward",
+      "They are the real India",
+      "They should be destroyed",
+      "They are irrelevant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Religion is the manifestation of the ______.'",
+    "options": ["Self", "Soul", "Heart", "Scriptures"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's call to the Indian nation?",
+    "options": [
+      "Stay as you are",
+      "Awake, arise",
+      "Follow the West",
+      "Give up religion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The soul has no ______.'",
+    "options": ["Sex", "Caste", "Age", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "What did Vivekananda say about the 'oneness' of humanity?",
+    "options": [
+      "It is a myth",
+      "It is the fundamental truth",
+      "It is only for religious people",
+      "It is for the future"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'The best teacher is ______.'",
+    "options": ["The soul", "The guru", "The book", "The parent"],
+    "answer": 0
+  },
+  {
+    "question": "What did Vivekananda say about 'service to man'?",
+    "options": [
+      "It is secondary",
+      "It is service to God",
+      "It is for social workers",
+      "It is optional"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'Be ______ and ______.'",
+    "options": [
+      "Strong and Wise",
+      "Pious and Humble",
+      "Holy and Unselfish",
+      "Rich and Famous"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda’s message to the youth about social service?",
+    "options": [
+      "Do it after retirement",
+      "It is their duty to lift the nation",
+      "Ignore it and focus on career",
+      "It is for the government to do"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The national life of India is ______.'",
+    "options": ["Religion", "Politics", "Commerce", "Agriculture"],
+    "answer": 0
+  },
+  {
+    "question": "What did Vivekananda say about the 'motherland'?",
+    "options": [
+      "It is just a piece of land",
+      "It should be worshipped as the only God for some time",
+      "It is less important than heaven",
+      "It is a burden"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'The end of all education is ______.'",
+    "options": ["Wealth", "Character", "Knowledge", "Service"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's view on 'universal religion'?",
+    "options": [
+      "A single new religion",
+      "A state of harmony where each follows his own but respects others",
+      "The end of all religions",
+      "Conversion to one faith"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'Never say 'no', never say, 'I ______.'",
+    "options": ["Can't", "Won't", "Don't know", "Am poor"],
+    "answer": 0
+  },
+  {
+    "question": "What did Vivekananda say about the 'rich' and 'poor' in India?",
+    "options": [
+      "The rich should ignore the poor",
+      "The rich should help the poor as they are brothers",
+      "There should be no poor",
+      "The poor are meant to suffer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'India's message is the message of ______.'",
+    "options": ["Peace", "Tolerance", "Universal love", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "What was Vivekananda's call regarding 'superstition'?",
+    "options": ["Follow it", "Reject it", "Ignore it", "Study it"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'I am an ______.'",
+    "options": [
+      "Indian",
+      "Eternal soul",
+      "Indian and every Indian is my brother",
+      "Educated man"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What did Vivekananda say regarding 'sectarianism'?",
+    "options": [
+      "It is good",
+      "It is a curse that has drenched the earth with blood",
+      "It is necessary",
+      "It is minor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught that 'Everything must be ______.'",
+    "options": [
+      "Sacrificed for the truth",
+      "Accepted as it is",
+      "Rejected",
+      "Kept secret"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was Vivekananda's view on the 'common man'?",
+    "options": [
+      "He is the source of all power",
+      "He is ignorant",
+      "He is irrelevant",
+      "He should be controlled"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda believed that 'The purpose of religion is to ______.'",
+    "options": [
+      "Go to heaven",
+      "Manifest the divinity within",
+      "Perform rituals",
+      "Become powerful"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's message to the Chicago Parliament about 'persecution'?",
+    "options": [
+      "It is good for religion",
+      "He was proud to belong to a religion that has sheltered the persecuted",
+      "Persecution is necessary",
+      "Persecution is a Western idea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The only God to worship is ______.'",
+    "options": [
+      "The one in the temple",
+      "The human soul in the human body",
+      "Money",
+      "Nature"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the 'weakness' of India?",
+    "options": [
+      "It is due to its religion",
+      "It is due to the lack of practicing true religion",
+      "It is due to geography",
+      "It is due to the British only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'The history of the world is the history of ______.'",
+    "options": [
+      "Wars",
+      "A few men who had faith in themselves",
+      "Kings",
+      "Economic changes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the 'spirit of India'?",
+    "options": ["It is dead", "It is immortal", "It is changing", "It is weak"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda called for 'a ______ in one hand and the ______ in the other.'",
+    "options": [
+      "Sword, Shield",
+      "Book, Pen",
+      "Vedanta, Western Science",
+      "Religion, Politics"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda's stance on 'reason'?",
+    "options": [
+      "It should be ignored for faith",
+      "It must be the guide in all matters including religion",
+      "It is for scientists only",
+      "It is dangerous for spirituality"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'Freedom is the first condition of ______.'",
+    "options": ["Happiness", "Growth", "Life", "Success"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say regarding 'women's education'?",
+    "options": [
+      "It is unnecessary",
+      "It is essential for the nation's progress",
+      "It should be limited",
+      "It is a Western concept"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The soil of India is my ______.'",
+    "options": ["Home", "Highest Heaven", "Property", "Burden"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's view on 'self-reliance'?",
+    "options": [
+      "It is for countries, not people",
+      "It is the key to individual and national success",
+      "It is impossible under foreign rule",
+      "It is a modern idea only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Religion is ______.'",
+    "options": ["Talk", "Doctrine", "Realization", "Ritual"],
+    "answer": 2
+  },
+  {
+    "question": "What was Vivekananda's view on 'cultural exchange'?",
+    "options": [
+      "India should only give",
+      "India should only take",
+      "Give what is best in India and take what is best from others",
+      "There should be no exchange"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vivekananda said, 'To be good and to do good—that is the ______.'",
+    "options": [
+      "Rule of law",
+      "Whole of religion",
+      "Path to success",
+      "Secret of happiness"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe about the 'future of the world'?",
+    "options": [
+      "It is dark",
+      "It will be shaped by the spiritual wisdom of India",
+      "It will be purely scientific",
+      "It is unpredictable"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'We are what our ______ have made us.'",
+    "options": ["Parents", "Thoughts", "Schools", "Teachers"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's goal for the 'youth of India'?",
+    "options": [
+      "To become wealthy",
+      "To become spiritually and physically strong",
+      "To go abroad",
+      "To work for the British"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'The only way to reach God is through ______.'",
+    "options": ["Fear", "Love and Service", "Money", "Rituals"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about the 'spirit of sacrifice'?",
+    "options": [
+      "It is for monks only",
+      "It is the secret of national growth",
+      "It is outdated",
+      "It is harmful"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that 'Truth is ______.'",
+    "options": ["Relative", "One", "Changing", "Secret"],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda's message regarding 'national unity'?",
+    "options": [
+      "It is unnecessary",
+      "Unite around the common spiritual heritage",
+      "Unite against other religions",
+      "Unite for political power only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Infinite power is ______.'",
+    "options": ["In the future", "In you", "In God only", "Lost"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda believe about 'work without attachment'?",
+    "options": [
+      "It is impossible",
+      "It is the secret of Karma Yoga",
+      "It is for those who have no goals",
+      "It is a waste of time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda taught, 'The mind is its ______.'",
+    "options": ["Master", "Enemy", "Friend", "Both b and c"],
+    "answer": 3
+  },
+  {
+    "question": "What was Vivekananda's view on the 'regeneration of India'?",
+    "options": [
+      "It is impossible",
+      "It is inevitable through the power of spirituality",
+      "It will happen through politics",
+      "It will happen through foreign aid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda said, 'Awake, arise and stop not till the ______ is reached.'",
+    "options": ["End", "Goal", "Success", "Truth"],
+    "answer": 1
+  },
+  {
+    "question": "According to Swami Vivekananda, what is the 'soul' of India?",
+    "options": ["Politics", "Religion and Spirituality", "Trade", "Socialism"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda emphasized that India’s contribution to world civilization is through its ____.",
+    "options": [
+      "Military power",
+      "Scientific inventions",
+      "Spiritual wisdom",
+      "Architectural designs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which quality did Vivekananda believe was most lacking in Indians of his time?",
+    "options": [
+      "Faith in themselves",
+      "Traditional knowledge",
+      "Physical beauty",
+      "Money"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vivekananda stated that if a nation loses its _____, it dies.",
+    "options": [
+      "Political freedom",
+      "Spiritual ideal",
+      "Economic stability",
+      "Language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda mean by 'Man-making' education?",
+    "options": [
+      "Creating workers for factories",
+      "Character building and developing self-confidence",
+      "Technical training for engineering",
+      "Political schooling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How did Vivekananda view the relation between religion and politics in India?",
+    "options": [
+      "They should be completely separated",
+      "Religion should be the foundation of national life",
+      "Politics is more important than religion",
+      "Religion is for the private life only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which mantra did Vivekananda give to the youth to awaken them?",
+    "options": [
+      "Arise, awake, and stop not till the goal is reached",
+      "Inquilab Zindabad",
+      "Swaraj is my birthright",
+      "Unity in diversity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to Vivekananda, why did India become weak?",
+    "options": [
+      "Because of foreign invasions",
+      "Because it neglected the poor and stopped expanding spiritually",
+      "Because of its lack of modern weapons",
+      "Because of its diverse languages"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that India would rise again through the efforts of ____.",
+    "options": [
+      "Wealthy merchants",
+      "A few unselfish young men",
+      "Foreign leaders",
+      "Traditional politicians"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What role did Vivekananda assign to women in the future of India?",
+    "options": [
+      "Only as homemakers",
+      "They must lead and solve their own problems through education",
+      "They should follow men in every aspect",
+      "They should remain within domestic boundaries"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about 'fear'?",
+    "options": [
+      "Fear is natural",
+      "Fear is the cause of all evil and misery",
+      "Fear is necessary for order",
+      "Fear is the sign of a wise man"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda compared the different religions to ____.",
+    "options": [
+      "Different languages",
+      "Different rivers flowing into the same ocean",
+      "Different warring tribes",
+      "Different books by the same author"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Vivekananda, the core of all religions is _____.",
+    "options": [
+      "Rituals and ceremonies",
+      "Doctrines and dogmas",
+      "Realizing the divinity within",
+      "Social organization"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vivekananda believed that 'Religion is the manifestation of the ____ already in man.'",
+    "options": ["Divinity", "Power", "Wealth", "Ambition"],
+    "answer": 0
+  },
+  {
+    "question": "In his lecture 'My Master', Vivekananda describes Sri Ramakrishna as the embodiment of ____.",
+    "options": [
+      "Modern science",
+      "The true spirit of India",
+      "Political leadership",
+      "Traditional dogma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which work by Vivekananda explains the path of selfless action?",
+    "options": ["Raja Yoga", "Karma Yoga", "Bhakti Yoga", "Jnana Yoga"],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda’s message to the West centered on the 'Harmony of Religions' and the 'Universal ____'.",
+    "options": ["Peace", "Brotherhood", "Governance", "Law"],
+    "answer": 1
+  },
+  {
+    "question": "Which yoga did Vivekananda associate with the path of knowledge and intellectual inquiry?",
+    "options": ["Bhakti Yoga", "Jnana Yoga", "Karma Yoga", "Raja Yoga"],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about 'service'?",
+    "options": [
+      "It is only for the monks",
+      "Serving man is serving God",
+      "It is a waste of time for those seeking God",
+      "Service should only be for one's own family"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these concepts did Vivekananda help introduce to the Western world?",
+    "options": [
+      "Secularism",
+      "Advaita Vedanta",
+      "Indian Politics",
+      "The Caste System"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda described the world as a 'great gymnasium' where ____.",
+    "options": [
+      "Only the physically strong survive",
+      "We come to make ourselves strong",
+      "Competition is the only rule",
+      "We learn to win at any cost"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which book by Vivekananda deals with the psychic and psychological control of the mind?",
+    "options": ["Jnana Yoga", "Raja Yoga", "Karma Yoga", "Bhakti Yoga"],
+    "answer": 1
+  },
+  {
+    "question": "What was the significance of Vivekananda’s speech at the Parliament of Religions in 1893?",
+    "options": [
+      "He criticized other religions",
+      "He proclaimed the message of universal tolerance and spiritual unity",
+      "He asked for donations for India",
+      "He spoke about Indian economics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda say about 'idolatry' (using images in worship)?",
+    "options": [
+      "It is a sin",
+      "It is a stage in the spiritual development of the human mind",
+      "It is the only way to worship",
+      "It is purely a superstition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Vivekananda’s stance on the influence of Western science and technology?",
+    "options": [
+      "It should be completely rejected",
+      "It should be embraced alongside Indian spirituality",
+      "It is superior to religion",
+      "It is irrelevant for Indians"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda believed that true spirituality lies in ____.",
+    "options": [
+      "Living in a forest",
+      "Selflessness and purity of heart",
+      "Reading books all day",
+      "Gaining worldly success"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Vivekananda call 'the greatest of all sins'?",
+    "options": [
+      "Stealing",
+      "Calling yourself or others a sinner/weak",
+      "Missing prayers",
+      "Ignoring the poor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vivekananda’s concept of 'Practical Vedanta' emphasized ____.",
+    "options": [
+      "Living a life of luxury",
+      "Applying spiritual truths to solve daily problems and serve humanity",
+      "Performing complex rituals",
+      "Studying ancient Sanskrit only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which event changed Vivekananda’s life and directed him towards his spiritual mission?",
+    "options": [
+      "His graduation from college",
+      "His meeting with Sri Ramakrishna",
+      "His meeting with the Maharaja of Khetri",
+      "His debate with missionaries in Calcutta"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which event strengthened Vivekananda’s faith in the spiritual power of India despite its poverty?",
+    "options": [
+      "The kindness and devotion of ordinary villagers during his travels",
+      "Western admiration",
+      "Political speeches",
+      "His meeting with missionaries"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why did Vivekananda accept to travel to the West despite hesitation?",
+    "options": [
+      "To gain personal fame",
+      "To spread the true message of Vedanta and India’s spiritual wisdom",
+      "To study Western science",
+      "To collect donations for temples"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which phrase best describes Swami Vivekananda’s Chicago speech style?",
+    "options": [
+      "Humble yet commanding, rational yet spiritual",
+      "Aggressive and dismissive",
+      "Emotional but incoherent",
+      "Quiet and monotonous"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which event symbolizes Vivekananda’s universal outlook?",
+    "options": [
+      "His speech at the Parliament of Religions",
+      "His meeting with Ramakrishna",
+      "His renunciation",
+      "His stay at Belur Math"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In 1899, Swamiji started a Bengali Journal to carry forward the ideas propounded by the Ramakrishna Mission. It was called",
+    "options": [
+      "Vedanta Kesari",
+      "Udbodhan",
+      "Brahmavadin",
+      "Prabuddha Bharatha"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these ideas did Swamiji espouse all through his life?",
+    "options": [
+      "Have faith in yourself.",
+      "Never to live a life of secrecy",
+      "Living a life of integrity",
+      "All of the above"
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,1112 @@
+[
+  {
+    "question": "Who is the author of 'The Story of My Experiments with Truth'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which language was Gandhi's autobiography originally written?",
+    "options": ["English", "Gujarati", "Hindi", "Sanskrit"],
+    "answer": 1
+  },
+  {
+    "question": "Who translated Gandhi's autobiography into English?",
+    "options": [
+      "C. F. Andrews",
+      "Mahadev Desai",
+      "Hermann Kallenbach",
+      "Sarojini Naidu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the first part of Gandhi's autobiography published?",
+    "options": ["1921", "1925", "1930", "1940"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main theme of 'The Story of My Experiments with Truth'?",
+    "options": [
+      "Political revolution",
+      "Spiritual and moral development",
+      "Religious philosophy",
+      "Indian independence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Gandhi's father's name?",
+    "options": [
+      "Devchand Gandhi",
+      "Karamchand Gandhi",
+      "Uttamchand Gandhi",
+      "Harjivan Gandhi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was Mohandas Karamchand Gandhi born?",
+    "options": ["Rajkot", "Porbandar", "Ahmedabad", "Bombay"],
+    "answer": 1
+  },
+  {
+    "question": "What was Gandhi's mother's name?",
+    "options": ["Jhaverba", "Putlibai", "Kashibai", "Raliatbehn"],
+    "answer": 1
+  },
+  {
+    "question": "In which year was Gandhi married to Kasturba?",
+    "options": ["1882", "1883", "1884", "1885"],
+    "answer": 1
+  },
+  {
+    "question": "How old was Gandhi when he got married?",
+    "options": ["12", "13", "15", "18"],
+    "answer": 1
+  },
+  {
+    "question": "What was Gandhi's profession before he entered politics?",
+    "options": ["Teacher", "Doctor", "Lawyer", "Journalist"],
+    "answer": 2
+  },
+  {
+    "question": "Where did Gandhi go to study law?",
+    "options": ["USA", "England", "South Africa", "Germany"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Gandhi leave for England?",
+    "options": ["1887", "1888", "1889", "1890"],
+    "answer": 1
+  },
+  {
+    "question": "Which vow did Gandhi take before leaving for England?",
+    "options": [
+      "To remain a vegetarian",
+      "To avoid alcohol",
+      "To remain celibate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Who was Gandhi's vegetarian mentor in London?",
+    "options": ["Henry Salt", "Edward Carpenter", "John Ruskin", "Leo Tolstoy"],
+    "answer": 0
+  },
+  {
+    "question": "Which book had a deep influence on Gandhi's diet and health experiments?",
+    "options": [
+      "The Bible",
+      "A Plea for Vegetarianism",
+      "The Bhagavad Gita",
+      "Walden"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which year did Gandhi return to India after his studies in England?",
+    "options": ["1890", "1891", "1892", "1893"],
+    "answer": 1
+  },
+  {
+    "question": "Where did Gandhi start his legal practice in India?",
+    "options": ["Ahmedabad", "Rajkot", "Bombay", "Both b and c"],
+    "answer": 3
+  },
+  {
+    "question": "Why did Gandhi go to South Africa in 1893?",
+    "options": [
+      "To study further",
+      "For a legal case",
+      "For political reasons",
+      "For a holiday"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which firm invited Gandhi to South Africa?",
+    "options": ["Tata & Sons", "Dada Abdulla & Co.", "Birla Group", "Reliance"],
+    "answer": 1
+  },
+  {
+    "question": "What event at Pietermaritzburg station changed the course of Gandhi's life?",
+    "options": [
+      "He met a leader",
+      "He was thrown off a train",
+      "He won a case",
+      "He met his family"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the reason for Gandhi's eviction from the first-class compartment?",
+    "options": [
+      "He didn't have a ticket",
+      "Racial discrimination",
+      "He was misbehaving",
+      "The train was overbooked"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which organization did Gandhi establish in South Africa in 1894?",
+    "options": [
+      "African National Congress",
+      "Natal Indian Congress",
+      "Transvaal Indian Association",
+      "South African League"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the primary goal of the Natal Indian Congress?",
+    "options": [
+      "To fight for independence",
+      "To support the British",
+      "To fight against racial discrimination",
+      "To promote trade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which year did Gandhi return to India for a short period during his South African stay?",
+    "options": ["1895", "1896", "1897", "1898"],
+    "answer": 1
+  },
+  {
+    "question": "What was the 'Green Pamphlet' published by Gandhi in 1896?",
+    "options": [
+      "A book on environment",
+      "A description of the condition of Indians in South Africa",
+      "A guide to vegetarianism",
+      "A political manifesto"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian leader did Gandhi meet and consider his political guru?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Lala Lajpat Rai",
+      "Dadabhai Naoroji"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where did Gandhi establish the Phoenix Settlement in 1904?",
+    "options": ["Johannesburg", "Durban", "Pretoria", "Cape Town"],
+    "answer": 1
+  },
+  {
+    "question": "What was the inspiration behind the Phoenix Settlement?",
+    "options": [
+      "Ruskin’s 'Unto This Last'",
+      "Tolstoy’s 'The Kingdom of God is Within You'",
+      "The Bhagavad Gita",
+      "The Bible"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When did Gandhi take the vow of Brahmacharya (celibacy)?",
+    "options": ["1900", "1903", "1906", "1910"],
+    "answer": 2
+  },
+  {
+    "question": "Which newspaper was started by Gandhi in South Africa?",
+    "options": ["Young India", "Harijan", "Indian Opinion", "Navajivan"],
+    "answer": 2
+  },
+  {
+    "question": "What was the name of the farm established by Gandhi near Johannesburg in 1910?",
+    "options": ["Gandhi Farm", "Tolstoy Farm", "Peace Farm", "Unity Farm"],
+    "answer": 1
+  },
+  {
+    "question": "Who helped Gandhi in establishing the Tolstoy Farm?",
+    "options": [
+      "Mahadev Desai",
+      "Hermann Kallenbach",
+      "C.F. Andrews",
+      "Sarojini Naidu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which law in South Africa required Indians to carry a registration certificate at all times?",
+    "options": [
+      "The Rowlatt Act",
+      "The Black Act (Asiatic Registration Act)",
+      "The Stamp Act",
+      "The Land Act"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Gandhi launch the first Satyagraha in South Africa?",
+    "options": ["1905", "1906", "1907", "1908"],
+    "answer": 1
+  },
+  {
+    "question": "In which language did Gandhi first use the word 'Satyagraha'?",
+    "options": ["English", "Hindi", "Gujarati", "Marathi"],
+    "answer": 2
+  },
+  {
+    "question": "What is the meaning of 'Satyagraha'?",
+    "options": [
+      "Passive resistance",
+      "Holding on to truth",
+      "Civil disobedience",
+      "Silent protest"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which British officer was a major opponent of Gandhi in South Africa?",
+    "options": ["Lord Curzon", "General Smuts", "Lord Irwin", "General Dyer"],
+    "answer": 1
+  },
+  {
+    "question": "When did Gandhi permanently return to India from South Africa?",
+    "options": ["1913", "1914", "1915", "1916"],
+    "answer": 2
+  },
+  {
+    "question": "Where did Gandhi land when he arrived in India in 1915?",
+    "options": ["Calcutta", "Madras", "Bombay", "Goa"],
+    "answer": 2
+  },
+  {
+    "question": "Which ashram did Gandhi establish in Ahmedabad in 1915?",
+    "options": [
+      "Satyagraha Ashram (Kochrab)",
+      "Sabarmati Ashram",
+      "Wardha Ashram",
+      "Sevagram Ashram"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the Sabarmati Ashram established?",
+    "options": ["1915", "1916", "1917", "1918"],
+    "answer": 2
+  },
+  {
+    "question": "What was Gandhi’s first major movement in India?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Champaran Satyagraha",
+      "Ahmedabad Mill Strike",
+      "Kheda Satyagraha"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where is Champaran located?",
+    "options": ["Gujarat", "Bihar", "Bengal", "Uttar Pradesh"],
+    "answer": 1
+  },
+  {
+    "question": "Why did Gandhi go to Champaran in 1917?",
+    "options": [
+      "To protest against salt tax",
+      "To help indigo farmers",
+      "To support mill workers",
+      "To advocate for Swaraj"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who invited Gandhi to Champaran?",
+    "options": [
+      "Rajendra Prasad",
+      "Raj Kumar Shukla",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the 'Tinkathia' system in Champaran?",
+    "options": [
+      "Compulsory growing of indigo on 3/20th of land",
+      "A tax on salt",
+      "A system of forced labor",
+      "A land revenue system"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which movement was related to the grievances of cotton mill workers?",
+    "options": [
+      "Champaran Satyagraha",
+      "Ahmedabad Mill Strike",
+      "Kheda Satyagraha",
+      "Non-Cooperation Movement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which movement did Gandhi use his first hunger strike in India?",
+    "options": [
+      "Champaran",
+      "Ahmedabad Mill Strike",
+      "Kheda Satyagraha",
+      "Rowlatt Satyagraha"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where did the Kheda Satyagraha take place in 1918?",
+    "options": ["Bihar", "Maharashtra", "Gujarat", "Rajasthan"],
+    "answer": 2
+  },
+  {
+    "question": "What was the main issue in Kheda Satyagraha?",
+    "options": [
+      "Industrial wages",
+      "Indigo farming",
+      "Remission of land revenue due to crop failure",
+      "Salt tax"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was Gandhi's close associate in the Kheda Satyagraha?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose",
+      "Maulana Azad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which act passed in 1919 led to a nationwide protest by Gandhi?",
+    "options": [
+      "The Rowlatt Act",
+      "The Morley-Minto Reforms",
+      "The Government of India Act 1919",
+      "The Simon Commission"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the Rowlatt Act also known as?",
+    "options": [
+      "The Black Act",
+      "The White Act",
+      "The Freedom Act",
+      "The People's Act"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Where did the Jallianwala Bagh massacre take place?",
+    "options": ["Lahore", "Amritsar", "Delhi", "Ludhiana"],
+    "answer": 1
+  },
+  {
+    "question": "Who was responsible for the Jallianwala Bagh massacre?",
+    "options": ["Lord Curzon", "General Dyer", "General Smuts", "Lord Irwin"],
+    "answer": 1
+  },
+  {
+    "question": "When did the Jallianwala Bagh massacre occur?",
+    "options": [
+      "April 6, 1919",
+      "April 13, 1919",
+      "May 13, 1919",
+      "June 13, 1919"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Gandhi’s reaction to the Jallianwala Bagh massacre?",
+    "options": [
+      "He called for a violent revolt",
+      "He returned his Kaiser-i-Hind medal",
+      "He left the Congress",
+      "He went on a long fast"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which movement did Gandhi launch to support the Ottoman Sultan (Khalifa)?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Khilafat Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who were the leaders of the Khilafat Movement?",
+    "options": [
+      "Jinnah and Iqbal",
+      "Ali Brothers (Shaukat Ali and Mohammad Ali)",
+      "Maulana Azad and Ansari",
+      "Gandhi and Nehru"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the Non-Cooperation Movement launched?",
+    "options": ["1919", "1920", "1921", "1922"],
+    "answer": 1
+  },
+  {
+    "question": "What was the main slogan of the Non-Cooperation Movement?",
+    "options": [
+      "Do or Die",
+      "Swaraj in one year",
+      "Purna Swaraj",
+      "Quit India"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why did Gandhi withdraw the Non-Cooperation Movement in 1922?",
+    "options": [
+      "Lack of support",
+      "Chauri Chaura incident",
+      "Arrest of leaders",
+      "Completion of goals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where did the Chauri Chaura incident take place?",
+    "options": [
+      "Bihar",
+      "United Provinces (Uttar Pradesh)",
+      "Bengal",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happened during the Chauri Chaura incident?",
+    "options": [
+      "Police fired on peaceful protesters",
+      "Protesters set fire to a police station",
+      "A leader was killed",
+      "The British declared martial law"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which year was Gandhi arrested and sentenced to six years in prison for sedition?",
+    "options": ["1920", "1921", "1922", "1924"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the judge in Gandhi's trial in 1922?",
+    "options": [
+      "Justice Broomfield",
+      "Justice Irwin",
+      "Justice Dyer",
+      "Justice Reading"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When was Gandhi released from prison due to ill health?",
+    "options": ["1923", "1924", "1925", "1926"],
+    "answer": 1
+  },
+  {
+    "question": "In which session was Gandhi elected as the President of the Indian National Congress?",
+    "options": [
+      "Lucknow Session 1916",
+      "Belgaum Session 1924",
+      "Lahore Session 1929",
+      "Calcutta Session 1920"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which social evil did Gandhi extensively work against in the 1920s and 30s?",
+    "options": ["Sati", "Child marriage", "Untouchability", "Alcoholism"],
+    "answer": 2
+  },
+  {
+    "question": "What name did Gandhi give to the untouchables?",
+    "options": ["Dalit", "Harijan (Children of God)", "Adiwasi", "Bahujan"],
+    "answer": 1
+  },
+  {
+    "question": "Which journal was started by Gandhi in 1933 to promote the cause of untouchables?",
+    "options": ["Young India", "Navajivan", "Harijan", "Indian Opinion"],
+    "answer": 2
+  },
+  {
+    "question": "Which resolution was passed in the Lahore Session of Congress in 1929?",
+    "options": [
+      "Quit India",
+      "Purna Swaraj (Complete Independence)",
+      "Non-Cooperation",
+      "Khilafat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Gandhi start the Dandi March?",
+    "options": [
+      "March 12, 1930",
+      "April 6, 1930",
+      "January 26, 1930",
+      "August 15, 1930"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What was the purpose of the Dandi March?",
+    "options": [
+      "To protest against land tax",
+      "To break the salt law",
+      "To demand Purna Swaraj",
+      "To support mill workers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many followers accompanied Gandhi during the Dandi March?",
+    "options": ["72", "78", "85", "100"],
+    "answer": 1
+  },
+  {
+    "question": "What was the distance covered in the Dandi March?",
+    "options": ["200 miles", "241 miles", "300 miles", "150 miles"],
+    "answer": 1
+  },
+  {
+    "question": "On which date did Gandhi break the salt law at Dandi?",
+    "options": [
+      "March 12, 1930",
+      "April 6, 1930",
+      "May 1, 1930",
+      "January 26, 1930"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which movement started after the breaking of the salt law?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Khilafat Movement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the Viceroy of India during the Civil Disobedience Movement?",
+    "options": ["Lord Curzon", "Lord Irwin", "Lord Reading", "Lord Linlithgow"],
+    "answer": 1
+  },
+  {
+    "question": "What was the Gandhi-Irwin Pact signed in 1931?",
+    "options": [
+      "An agreement for full independence",
+      "An agreement to end the Civil Disobedience Movement",
+      "A trade agreement",
+      "A religious pact"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which Round Table Conference did Gandhi participate as the Congress representative?",
+    "options": ["First", "Second", "Third", "All of them"],
+    "answer": 1
+  },
+  {
+    "question": "Where was the Second Round Table Conference held?",
+    "options": ["Delhi", "London", "Paris", "New York"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the British Prime Minister during the Round Table Conferences?",
+    "options": [
+      "Winston Churchill",
+      "Ramsay MacDonald",
+      "Clement Attlee",
+      "Neville Chamberlain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the 'Communal Award' announced by Ramsay MacDonald?",
+    "options": [
+      "An award for bravery",
+      "Separate electorates for different communities",
+      "A peace treaty",
+      "A land reform act"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why did Gandhi go on a fast unto death in Yerwada Prison in 1932?",
+    "options": [
+      "Against the Rowlatt Act",
+      "Against the Communal Award's provision for separate electorates for Dalits",
+      "Against salt tax",
+      "For Purna Swaraj"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the Poona Pact of 1932?",
+    "options": [
+      "An agreement between Gandhi and the British",
+      "An agreement between Gandhi and B.R. Ambedkar",
+      "An agreement between Hindus and Muslims",
+      "A land settlement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When was the Quit India Movement launched?",
+    "options": ["1940", "1941", "1942", "1943"],
+    "answer": 2
+  },
+  {
+    "question": "What was Gandhi’s famous slogan during the Quit India Movement?",
+    "options": [
+      "Inquilab Zindabad",
+      "Jai Hind",
+      "Do or Die",
+      "Swaraj is my birthright"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where was Gandhi imprisoned during the Quit India Movement?",
+    "options": [
+      "Yerwada Jail",
+      "Aga Khan Palace",
+      "Ahmednagar Fort",
+      "Naini Jail"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When did Kasturba Gandhi die?",
+    "options": ["1942", "1943", "1944", "1945"],
+    "answer": 2
+  },
+  {
+    "question": "When did Gandhi’s close secretary, Mahadev Desai, die?",
+    "options": ["1940", "1942", "1944", "1946"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the British Prime Minister during the Quit India Movement?",
+    "options": [
+      "Ramsay MacDonald",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Lloyd George"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last Viceroy of India who worked on the partition plan?",
+    "options": [
+      "Lord Irwin",
+      "Lord Wavell",
+      "Lord Mountbatten",
+      "Lord Reading"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which day did Gandhi describe as a day of mourning and fasting instead of celebration?",
+    "options": [
+      "January 26, 1930",
+      "August 15, 1947",
+      "October 2, 1947",
+      "January 30, 1948"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was Gandhi on August 15, 1947?",
+    "options": ["Delhi", "Calcutta", "Bombay", "Wardha"],
+    "answer": 1
+  },
+  {
+    "question": "When was Mahatma Gandhi assassinated?",
+    "options": [
+      "January 15, 1948",
+      "January 30, 1948",
+      "February 12, 1948",
+      "October 2, 1948"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was Gandhi assassinated?",
+    "options": [
+      "Sabarmati Ashram",
+      "Birla House, Delhi",
+      "Yerwada Jail",
+      "Raj Ghat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who assassinated Mahatma Gandhi?",
+    "options": [
+      "Nathuram Godse",
+      "Narayan Apte",
+      "Madan Lal Pahwa",
+      "Vinayak Savarkar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What were Gandhi’s last words?",
+    "options": ["Jai Hind", "Hey Ram", "Inquilab", "Vande Mataram"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Gandhi's memorial in Delhi?",
+    "options": ["Shakti Sthal", "Vijay Ghat", "Raj Ghat", "Shanti Van"],
+    "answer": 2
+  },
+  {
+    "question": "What was Gandhi's view on modern industrialization?",
+    "options": [
+      "He fully supported it",
+      "He believed it led to exploitation and preferred village industries",
+      "He wanted to emulate the West",
+      "He had no opinion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which book by Leo Tolstoy deeply influenced Gandhi?",
+    "options": [
+      "War and Peace",
+      "Anna Karenina",
+      "The Kingdom of God is Within You",
+      "The Death of Ivan Ilyich"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which term did Gandhi use to describe the idea of a self-reliant village economy?",
+    "options": ["Swaraj", "Sarvodaya", "Gram Swaraj", "Ram Rajya"],
+    "answer": 2
+  },
+  {
+    "question": "What does 'Sarvodaya' mean?",
+    "options": [
+      "Welfare of the majority",
+      "Welfare of all",
+      "Rule of the people",
+      "Spiritual awakening"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which English philosopher’s book 'Unto This Last' inspired Gandhi to change his life?",
+    "options": [
+      "John Stuart Mill",
+      "John Ruskin",
+      "Bertrand Russell",
+      "Thomas Hobbes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the 'Wardha Scheme' of education proposed by Gandhi?",
+    "options": [
+      "Focus on higher education",
+      "Vocational and craft-based education (Nai Talim)",
+      "Religious education",
+      "English medium education"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which weapon did Gandhi consider the most powerful in Satyagraha?",
+    "options": ["Truth", "Non-violence (Ahimsa)", "Love", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Who gave the title 'Mahatma' to Gandhi?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose",
+      "Gopal Krishna Gokhale"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who called Gandhi 'Father of the Nation' first?",
+    "options": [
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose",
+      "Sardar Patel",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the name of Gandhi's autobiography's sequel?",
+    "options": [
+      "My Truth",
+      "Satyagraha in South Africa",
+      "No sequel was written",
+      "Towards Freedom"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which religious text did Gandhi refer to as his 'Spiritual Dictionary'?",
+    "options": ["The Bible", "The Quran", "The Bhagavad Gita", "The Ramayana"],
+    "answer": 2
+  },
+  {
+    "question": "What was Gandhi’s concept of 'Trusteeship'?",
+    "options": [
+      "A business management theory",
+      "The idea that wealthy people should act as trustees for the welfare of society",
+      "A religious concept",
+      "A government policy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In his autobiography, which incident does Gandhi describe as his 'Himalayan Miscalculation'?",
+    "options": [
+      "The Champaran Satyagraha",
+      "The Non-Cooperation Movement",
+      "Calling for a nationwide Satyagraha against the Rowlatt Act without enough preparation",
+      "The Dandi March"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these was NOT a vow taken by members of Gandhi's ashram?",
+    "options": [
+      "Ahimsa",
+      "Asteya (Non-stealing)",
+      "Aparigraha (Non-possession)",
+      "Accumulation of wealth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What did Gandhi mean by 'Swadeshi'?",
+    "options": [
+      "Political freedom",
+      "Using goods produced in one's own country",
+      "Spiritual independence",
+      "Western education"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these leaders was known as 'Frontier Gandhi'?",
+    "options": [
+      "Maulana Azad",
+      "Khan Abdul Ghaffar Khan",
+      "Sheikh Abdullah",
+      "Liaquat Ali Khan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of Gandhi's sons converted to Islam and then back to Hinduism?",
+    "options": ["Manilal", "Harilal", "Ramdas", "Devdas"],
+    "answer": 1
+  },
+  {
+    "question": "Who was Gandhi's favorite bhajan composer?",
+    "options": ["Kabir", "Narsinh Mehta", "Mirabai", "Tulsidas"],
+    "answer": 1
+  },
+  {
+    "question": "Which bhajan was Gandhi's favorite?",
+    "options": [
+      "Vaishnava Jana To",
+      "Raghupati Raghav Raja Ram",
+      "Both a and b",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was Gandhi's view on the use of machinery?",
+    "options": [
+      "He hated all machinery",
+      "He opposed machinery that replaced human labor and led to unemployment",
+      "He wanted to automate everything",
+      "He only liked Western machines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which city did Gandhi organize a 'Bonfire of Foreign Cloth' in 1921?",
+    "options": ["Ahmedabad", "Bombay", "Calcutta", "Delhi"],
+    "answer": 1
+  },
+  {
+    "question": "Which event in 1913 in South Africa involved 2000 Indian miners?",
+    "options": [
+      "Great March",
+      "Strike in Natal",
+      "Both a and b",
+      "Passive Resistance in Transvaal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who was Gandhi's main interlocutor during his talks in 1944?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Muhammad Ali Jinnah",
+      "B.R. Ambedkar",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was the main purpose of the Cripps Mission (1942) which Gandhi rejected?",
+    "options": [
+      "Full independence",
+      "Dominion status after the war",
+      "Partition of India",
+      "Economic aid"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What did Gandhi call the Cripps Mission's proposal?",
+    "options": [
+      "A glorious offer",
+      "A post-dated cheque on a crashing bank",
+      "A revolutionary step",
+      "A waste of time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which book did Gandhi outline his vision for Indian self-rule in 1909?",
+    "options": [
+      "The Story of My Experiments with Truth",
+      "Hind Swaraj",
+      "Constructive Programme",
+      "Key to Health"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where was Gandhi when he wrote 'Hind Swaraj'?",
+    "options": [
+      "In prison",
+      "On a ship from London to South Africa",
+      "In Sabarmati Ashram",
+      "In his lawyer's office"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What was Gandhi’s take on the caste system later in his life?",
+    "options": [
+      "He supported it completely",
+      "He argued for the equality of all and removal of untouchability, though initially he supported Varna",
+      "He wanted to maintain the hierarchy",
+      "He didn't address the issue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which American writer’s essay 'On the Duty of Civil Disobedience' influenced Gandhi?",
+    "options": [
+      "Walt Whitman",
+      "Henry David Thoreau",
+      "Ralph Waldo Emerson",
+      "Mark Twain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Gandhi Smriti, where Gandhi was assassinated, was previously known as:",
+    "options": ["Birla House", "Raj Bhavan", "Shanti Niwas", "Ganga Sadan"],
+    "answer": 0
+  },
+  {
+    "question": "The Aga Khan Palace, where Gandhi was kept under house arrest, is located in:",
+    "options": ["Mumbai", "Pune", "Ahmedabad", "Nagpur"],
+    "answer": 1
+  },
+  {
+    "question": "The Gandhi Peace Prize was established by the Government of India in memory of:",
+    "options": [
+      "Kasturba Gandhi",
+      "Mahatma Gandhi",
+      "Mahadev Desai",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The United Nations declared Gandhi's birthday, October 2nd, as the International Day of Non-Violence in:",
+    "options": ["1948", "2007", "1969", "2010"],
+    "answer": 1
+  },
+  {
+    "question": "Gandhi's autobiography ends with the year 1920 because he believed:",
+    "options": [
+      "His later life was too political",
+      "His experiments with truth were largely over",
+      "He had no more time to write",
+      "The later part was not important"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these was a key figure at the Tolstoy Farm in South Africa?",
+    "options": [
+      "Mir Alam",
+      "Herman Kallenbach",
+      "General Smuts",
+      "Lord Milner"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gandhi's non-violent protest in South Africa was known by what specific term?",
+    "options": ["Swaraj", "Satyagraha", "Hartal", "Dharna"],
+    "answer": 1
+  },
+  {
+    "question": "What significant honor did Gandhi receive from the British Empire in 1915, which he later returned?",
+    "options": [
+      "Kaiser-i-Hind medal",
+      "Order of the British Empire",
+      "Victoria Cross",
+      "Bharat Ratna"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian state was the starting point of Gandhi's Dandi March?",
+    "options": ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+    "answer": 1
+  }
+]

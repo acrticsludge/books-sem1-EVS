@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MCQ Practice</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>MCQ Practice Portal</h1>
+
+    <div class="controls">
+      <select id="bookSelect">
+        <option value="gandhi">Experiments with Truth – Gandhi</option>
+        <option value="vivekananda">My India – Vivekananda</option>
+      </select>
+
+      <button onclick="startQuiz()">Start</button>
+      <button onclick="resetProgress()">Reset</button>
+    </div>
+
+    <div id="quizBox" class="hidden">
+      <h2 id="question"></h2>
+      <div id="options"></div>
+      <p id="status"></p>
+      <button onclick="nextQuestion()">Next</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
