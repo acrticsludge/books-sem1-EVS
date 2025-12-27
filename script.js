@@ -23,8 +23,9 @@ async function startQuiz() {
 
 function showQuestion() {
   if (index >= questions.length) {
-    document.getElementById("question").innerText =
-      `Completed! Score: ${score}/${questions.length}`;
+    document.getElementById(
+      "question"
+    ).innerText = `Completed! Score: ${score}/${questions.length}`;
     document.getElementById("options").innerHTML = "";
     return;
   }
@@ -43,26 +44,32 @@ function showQuestion() {
     optDiv.appendChild(div);
   });
 
-  document.getElementById("status").innerText =
-    `Question ${index + 1} / ${questions.length}`;
+  document.getElementById("status").innerText = `Question ${index + 1} / ${
+    questions.length
+  }`;
 }
 
 function checkAnswer(choice) {
   const correct = questions[index].answer;
   if (choice === correct) score++;
 
-  localStorage.setItem(
-    currentBook,
-    JSON.stringify({ index, score })
-  );
+  // Apply visual feedback
+  const options = document.querySelectorAll(".option");
+  options.forEach((opt, i) => {
+    if (i === correct) {
+      opt.classList.add("correct");
+    } else if (i === choice && choice !== correct) {
+      opt.classList.add("wrong");
+    }
+    opt.onclick = null; // Disable further clicks
+  });
+
+  localStorage.setItem(currentBook, JSON.stringify({ index, score }));
 }
 
 function nextQuestion() {
   index++;
-  localStorage.setItem(
-    currentBook,
-    JSON.stringify({ index, score })
-  );
+  localStorage.setItem(currentBook, JSON.stringify({ index, score }));
   showQuestion();
 }
 

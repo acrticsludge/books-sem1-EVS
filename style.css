@@ -13,7 +13,8 @@ h1 {
   margin-bottom: 20px;
 }
 
-select, button {
+select,
+button {
   padding: 10px;
   margin: 5px;
 }
@@ -42,5 +43,11 @@ select, button {
   background: #ddd;
 }
 
-.correct { color: green; }
-.wrong { color: red; }
+.correct {
+  background-color: lightgreen;
+  color: green;
+}
+.wrong {
+  background-color: lightcoral;
+  color: red;
+}
