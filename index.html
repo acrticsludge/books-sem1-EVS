@@ -22,7 +22,11 @@
       <h2 id="question"></h2>
       <div id="options"></div>
       <p id="status"></p>
-      <button onclick="nextQuestion()">Next</button>
+      <button onclick="previousQuestion()">Previous</button>
+      <button onclick="submitQuestion()">Submit</button>
+      <button onclick="nextQuestion()" id="nextBtn" style="display: none">
+        Next
+      </button>
     </div>
 
     <script src="script.js"></script>

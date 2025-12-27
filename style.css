@@ -37,6 +37,7 @@ button {
   background: #eee;
   border-radius: 5px;
   cursor: pointer;
+  display: block;
 }
 
 .option:hover {
@@ -44,10 +45,10 @@ button {
 }
 
 .correct {
-  background-color: lightgreen;
+  background-color: lightgreen !important;
   color: green;
 }
 .wrong {
-  background-color: lightcoral;
+  background-color: lightcoral !important;
   color: red;
 }

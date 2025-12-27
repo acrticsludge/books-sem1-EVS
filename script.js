@@ -2,6 +2,7 @@ let questions = [];
 let index = 0;
 let score = 0;
 let currentBook = "";
+let selectedChoice = -1;
 
 async function startQuiz() {
   currentBook = document.getElementById("bookSelect").value;
@@ -27,9 +28,11 @@ function showQuestion() {
       "question"
     ).innerText = `Completed! Score: ${score}/${questions.length}`;
     document.getElementById("options").innerHTML = "";
+    document.getElementById("nextBtn").style.display = "none";
     return;
   }
 
+  selectedChoice = -1;
   const q = questions[index];
   document.getElementById("question").innerText = q.question;
 
@@ -37,16 +40,32 @@ function showQuestion() {
   optDiv.innerHTML = "";
 
   q.options.forEach((opt, i) => {
-    const div = document.createElement("div");
-    div.className = "option";
-    div.innerText = opt;
-    div.onclick = () => checkAnswer(i);
-    optDiv.appendChild(div);
+    const label = document.createElement("label");
+    label.className = "option";
+    const radio = document.createElement("input");
+    radio.type = "radio";
+    radio.name = "option";
+    radio.value = i;
+    radio.onchange = () => (selectedChoice = i);
+    label.appendChild(radio);
+    label.appendChild(document.createTextNode(" " + opt));
+    optDiv.appendChild(label);
+    optDiv.appendChild(document.createElement("br"));
   });
 
   document.getElementById("status").innerText = `Question ${index + 1} / ${
     questions.length
   }`;
+  document.getElementById("nextBtn").style.display = "none";
+}
+
+function submitQuestion() {
+  if (selectedChoice === -1) {
+    alert("Please select an option.");
+    return;
+  }
+  checkAnswer(selectedChoice);
+  document.getElementById("nextBtn").style.display = "inline";
 }
 
 function checkAnswer(choice) {
@@ -61,10 +80,18 @@ function checkAnswer(choice) {
     } else if (i === choice && choice !== correct) {
       opt.classList.add("wrong");
     }
-    opt.onclick = null; // Disable further clicks
+    opt.querySelector("input").disabled = true;
   });
 
   localStorage.setItem(currentBook, JSON.stringify({ index, score }));
+}
+
+function previousQuestion() {
+  if (index > 0) {
+    index--;
+    localStorage.setItem(currentBook, JSON.stringify({ index, score }));
+    showQuestion();
+  }
 }
 
 function nextQuestion() {
