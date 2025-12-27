@@ -3,6 +3,7 @@ let index = 0;
 let score = 0;
 let currentBook = "";
 let selectedChoice = -1;
+let userAnswers = [];
 
 async function startQuiz() {
   currentBook = document.getElementById("bookSelect").value;
@@ -13,9 +14,11 @@ async function startQuiz() {
   if (saved) {
     index = saved.index;
     score = saved.score;
+    userAnswers = saved.answers || [];
   } else {
     index = 0;
     score = 0;
+    userAnswers = [];
   }
 
   document.getElementById("quizBox").classList.remove("hidden");
@@ -57,6 +60,13 @@ function showQuestion() {
     questions.length
   }`;
   document.getElementById("nextBtn").style.display = "none";
+
+  // If already answered, show feedback
+  if (userAnswers[index] !== undefined) {
+    selectedChoice = userAnswers[index];
+    checkAnswer(selectedChoice, false); // false to not increment score again
+    document.getElementById("nextBtn").style.display = "inline";
+  }
 }
 
 function submitQuestion() {
@@ -64,13 +74,16 @@ function submitQuestion() {
     alert("Please select an option.");
     return;
   }
-  checkAnswer(selectedChoice);
+  checkAnswer(selectedChoice, true);
   document.getElementById("nextBtn").style.display = "inline";
 }
 
-function checkAnswer(choice) {
+function checkAnswer(choice, incrementScore = true) {
   const correct = questions[index].answer;
-  if (choice === correct) score++;
+  if (incrementScore && userAnswers[index] === undefined) {
+    if (choice === correct) score++;
+  }
+  userAnswers[index] = choice;
 
   // Apply visual feedback
   const options = document.querySelectorAll(".option");
@@ -83,25 +96,35 @@ function checkAnswer(choice) {
     opt.querySelector("input").disabled = true;
   });
 
-  localStorage.setItem(currentBook, JSON.stringify({ index, score }));
+  localStorage.setItem(
+    currentBook,
+    JSON.stringify({ index, score, answers: userAnswers })
+  );
 }
 
 function previousQuestion() {
   if (index > 0) {
     index--;
-    localStorage.setItem(currentBook, JSON.stringify({ index, score }));
+    localStorage.setItem(
+      currentBook,
+      JSON.stringify({ index, score, answers: userAnswers })
+    );
     showQuestion();
   }
 }
 
 function nextQuestion() {
   index++;
-  localStorage.setItem(currentBook, JSON.stringify({ index, score }));
+  localStorage.setItem(
+    currentBook,
+    JSON.stringify({ index, score, answers: userAnswers })
+  );
   showQuestion();
 }
 
 function resetProgress() {
   localStorage.removeItem("gandhi");
   localStorage.removeItem("vivekananda");
+  userAnswers = [];
   alert("Progress reset");
 }
